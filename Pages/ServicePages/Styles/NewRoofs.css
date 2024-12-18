@@ -59,7 +59,7 @@ font-size: 1.2rem;
 }
 @media (max-width: 750px) {
   
-   .heroContent h2 {
+   .heroContent h1 {
       font-weight: 400;
       font-size: 1em;
    }
